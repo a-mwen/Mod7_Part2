@@ -1,0 +1,15 @@
+List of colors
+
+Red
+Orange
+Yellow
+Green
+Blue
+Indigo
+Violet
+Purple
+Pink
+Brown
+Black
+White
+Gray
